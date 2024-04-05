@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "822831644799",
+    "project_id": "whizardapi-9b442",
+    "storage_bucket": "whizardapi-9b442.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:822831644799:android:7682cf33d6a4048179bf4a",
+        "android_client_info": {
+          "package_name": "com.api.whizardapi"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBtS7-xYCIxPc26UHb93JuI3JJBZlLI0KE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:822831644799:android:a3b2d6b26d8c7e7679bf4a",
+        "android_client_info": {
+          "package_name": "com.example.admin"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBtS7-xYCIxPc26UHb93JuI3JJBZlLI0KE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
